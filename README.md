@@ -8,3 +8,6 @@
 docker-compose up -d
 ```
 * access to https://localhost:4443
+
+## License
+* (c)Since 2017, under MIT, see LICENSE
